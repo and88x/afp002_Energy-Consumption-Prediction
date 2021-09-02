@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+src/Plotter.py
+databases/
+.virtual_documents/
 # C extensions
 *.so
 
