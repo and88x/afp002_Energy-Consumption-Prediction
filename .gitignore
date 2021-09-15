@@ -5,6 +5,7 @@ __pycache__/
 
 src/Plotter.py
 databases/
+models/
 .virtual_documents/
 # C extensions
 *.so

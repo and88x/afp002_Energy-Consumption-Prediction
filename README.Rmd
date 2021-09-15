@@ -56,7 +56,12 @@ Here, the months that have the highest energy consumption in most of the day are
 This graph shows that the weekends are the days in where there is less energy consumption.
 
 ## Analysis of results
-Working on it ;)
+Working on it at **09/15/2021** ;) 
+
+### (Spoiler results)
+[XGBoost predicion](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/predictionXGB.html)  
+[Support Vector Regression prediction ](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/prediction_SVR.html)  
+[K-Nearest Neighbor prediction](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/prediction_KNNR.html)
  
 ### Reference Paper  
 P. W. Khan and Y. -C. Byun, "Genetic Algorithm Based Optimized Feature Engineering and Hybrid Machine Learning for Effective Energy Consumption Prediction," in IEEE Access, vol. 8, pp. 196274-196286, 2020, doi: 10.1109/ACCESS.2020.3034101.

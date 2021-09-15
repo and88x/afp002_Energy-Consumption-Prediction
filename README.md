@@ -82,7 +82,16 @@ energy consumption.
 
 ## Analysis of results
 
-Working on it ;)
+Working on it at **09/15/2021** ;)
+
+### (Spoiler results)
+
+[XGBoost
+predicion](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/predictionXGB.html)  
+[Support Vector Regression
+prediction](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/prediction_SVR.html)  
+[K-Nearest Neighbor
+prediction](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/prediction_KNNR.html)
 
 ### Reference Paper
 
