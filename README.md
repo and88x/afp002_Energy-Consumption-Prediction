@@ -182,7 +182,7 @@ The first response to ensure that all models give good results consist
 on perform successive predictions. This task consists on consider
 previous responses to compute new predictions. The following image shows
 how the models respond o this evaluation (click
-[here](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/90_recursive_predictions)
+[here](https://htmlpreview.github.io/?https://github.com/and88x/afp002_Energy-Consumption-Prediction/blob/main/imgs/90_recursive_predictions.html)
 to see details):
 
 ![](./imgs/90_recursive_predictions.png)
